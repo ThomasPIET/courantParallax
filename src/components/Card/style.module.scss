@@ -1,0 +1,26 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+
+  .card{
+    width: 1000px;
+    height: 500px;
+    border-radius: 15px;
+    padding: 20px;
+    
+  }
+  
+}
+.title {
+  font-weight: semi-bold;
+}
+
+.description {
+  margin-right: 50%;
+  margin-top: 50px;
+  
+}
